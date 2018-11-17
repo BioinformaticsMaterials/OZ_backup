@@ -1,0 +1,2 @@
+perl gener_cmd_modi_id_spec.pl  > ensemblgeno_plant_species.spec.fa &
+
